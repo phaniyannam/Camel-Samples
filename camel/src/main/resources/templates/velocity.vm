@@ -1,0 +1,6 @@
+Dear customer
+
+I have received the payload:
+${body}
+
+This is an automated email, please do not reply.
