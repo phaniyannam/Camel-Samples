@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class HelloBean {
 	public String hello(String name) {
-		return "Hello" + name;
+		return "Hello " + name;
 	}
 
 }
